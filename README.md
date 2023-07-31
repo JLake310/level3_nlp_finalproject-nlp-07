@@ -72,12 +72,14 @@
 
 - 검색한 상품이 DB 에 저장 된 경우
   
-    [![Video Label](http://img.youtube.com/vi/dzFuc4AK6OQ/0.jpg)](https://youtu.be/dzFuc4AK6OQ)
+    ![db gif](https://github.com/JLake310/level3_nlp_finalproject-nlp-07/assets/86578246/eb77ebfc-56ba-424d-85bd-67c655ee2848)
+
     
     
 - 검색한 상품이 저장되지 않아 실시간 크롤링 하는 경우
   
-    [![Video Label](http://img.youtube.com/vi/nbzfXA41-X8/0.jpg)](https://youtu.be/nbzfXA41-X8)
+    ![크롤링 gif](https://github.com/JLake310/level3_nlp_finalproject-nlp-07/assets/86578246/9a231072-4a8b-4c80-a75b-22b85b629ad2)
+
 
     
 
